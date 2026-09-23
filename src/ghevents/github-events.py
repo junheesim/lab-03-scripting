@@ -23,7 +23,7 @@ def print_events(events, n=5):
 
 def main():
     '''
-    Prints the GitHub user and the URL of the events
+    Prints the GitHub user and the URL to the events, as well as the first 5 events' type and repo name.
     '''
     print(GHUSER)
     print(url)
